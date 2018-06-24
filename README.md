@@ -1,2 +1,2 @@
 # image-server
-SoonTM ¯\_(ツ)_/¯
+SoonTM ¯\\\_(ツ)_/¯
