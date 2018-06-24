@@ -1,2 +1,2 @@
 # image-server
-Image processing server for Blinky
+SoonTM ¯\_(ツ)_/¯
